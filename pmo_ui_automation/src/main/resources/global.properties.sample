@@ -1,0 +1,6 @@
+url=http://10.4.100.183:3000/auth/login
+browser=chrome
+company={COMPANY}
+email={LOGIN EMAIL}
+password={LOGIN PASSWORD}
+
